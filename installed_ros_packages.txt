@@ -1,0 +1,228 @@
+ii  ros-iron-action-msgs                               1.6.0-2jammy.20240712.040512            arm64        Messages and service definitions common among all ROS actions.
+ii  ros-iron-actionlib-msgs                            5.0.1-1jammy.20240712.043545            arm64        A package containing some message definitions used in the implementation of ROS 1 actions.
+ii  ros-iron-ament-cmake                               2.0.6-1jammy.20240711.221502            arm64        The entry point package for the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-auto                          2.0.6-1jammy.20240711.221949            arm64        The auto-magic functions for ease to use of the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-copyright                     0.14.4-1jammy.20240712.020031           arm64        The CMake API for ament_copyright to check every source file contains copyright reference.
+ii  ros-iron-ament-cmake-core                          2.0.6-1jammy.20240711.214712            arm64        The core of the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-cppcheck                      0.14.4-1jammy.20240712.020216           arm64        The CMake API for ament_cppcheck to perform static code analysis on C/C++ code using Cppcheck.
+ii  ros-iron-ament-cmake-cpplint                       0.14.4-1jammy.20240712.021006           arm64        The CMake API for ament_cpplint to lint C / C++ code using cpplint.
+ii  ros-iron-ament-cmake-export-definitions            2.0.6-1jammy.20240711.220506            arm64        The ability to export definitions to downstream packages in the ament buildsystem.
+ii  ros-iron-ament-cmake-export-dependencies           2.0.6-1jammy.20240711.220607            arm64        The ability to export dependencies to downstream packages in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-export-include-directories    2.0.6-1jammy.20240711.220515            arm64        The ability to export include directories to downstream packages in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-export-interfaces             2.0.6-1jammy.20240711.220525            arm64        The ability to export interfaces to downstream packages in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-export-libraries              2.0.6-1jammy.20240711.220000            arm64        The ability to export libraries to downstream packages in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-export-link-flags             2.0.6-1jammy.20240711.215805            arm64        The ability to export link flags to downstream packages in the ament buildsystem.
+ii  ros-iron-ament-cmake-export-targets                2.0.6-1jammy.20240711.220026            arm64        The ability to export targets to downstream packages in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-flake8                        0.14.4-1jammy.20240712.020630           arm64        The CMake API for ament_flake8 to check code syntax and style conventions with flake8.
+ii  ros-iron-ament-cmake-gen-version-h                 2.0.6-1jammy.20240711.221237            arm64        Generate a C header containing the version number of the package
+ii  ros-iron-ament-cmake-gmock                         2.0.6-1jammy.20240711.221930            arm64        The ability to add Google mock-based tests in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-gtest                         2.0.6-1jammy.20240711.221212            arm64        The ability to add gtest-based tests in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-include-directories           2.0.6-1jammy.20240711.220530            arm64        The functionality to order include directories according to a chain of prefixes in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-libraries                     2.0.6-1jammy.20240711.220541            arm64        The functionality to deduplicate libraries in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-lint-cmake                    0.14.4-1jammy.20240712.015733           arm64        The CMake API for ament_lint_cmake to lint CMake code using cmakelint.
+ii  ros-iron-ament-cmake-pep257                        0.14.4-1jammy.20240712.020737           arm64        The CMake API for ament_pep257 to check code against the docstring style conventions in PEP 257.
+ii  ros-iron-ament-cmake-pytest                        2.0.6-1jammy.20240711.220204            arm64        The ability to run Python tests using pytest in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-python                        2.0.6-1jammy.20240711.215942            arm64        The ability to use Python in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-ros                           0.11.2-4jammy.20240712.024241           arm64        The ROS specific CMake bits in the ament buildsystem.
+ii  ros-iron-ament-cmake-target-dependencies           2.0.6-1jammy.20240711.220628            arm64        The ability to add definitions, include directories and libraries of a package to a target in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-test                          2.0.6-1jammy.20240711.220005            arm64        The ability to add tests in the ament buildsystem in CMake.
+ii  ros-iron-ament-cmake-uncrustify                    0.14.4-1jammy.20240712.020558           arm64        The CMake API for ament_uncrustify to check code against styleconventions using uncrustify.
+ii  ros-iron-ament-cmake-version                       2.0.6-1jammy.20240711.220049            arm64        The ability to override the exported package version in the ament buildsystem.
+ii  ros-iron-ament-cmake-xmllint                       0.14.4-1jammy.20240712.020706           arm64        The CMake API for ament_xmllint to check XML file using xmmlint.
+ii  ros-iron-ament-copyright                           0.14.4-1jammy.20240712.001233           arm64        The ability to check source files for copyright and license information.
+ii  ros-iron-ament-cppcheck                            0.14.4-1jammy.20240711.215831           arm64        The ability to perform static code analysis on C/C++ code using Cppcheck and generate xUnit test result files.
+ii  ros-iron-ament-cpplint                             0.14.4-1jammy.20240712.002016           arm64        The ability to check code against the Google style conventions using cpplint and generate xUnit test result files.
+ii  ros-iron-ament-flake8                              0.14.4-1jammy.20240711.220149           arm64        The ability to check code for style and syntax conventions with flake8.
+ii  ros-iron-ament-index-cpp                           1.5.2-4jammy.20240712.025619            arm64        C++ API to access the ament resource index.
+ii  ros-iron-ament-index-python                        1.5.2-4jammy.20240712.010603            arm64        Python API to access the ament resource index.
+ii  ros-iron-ament-lint                                0.14.4-1jammy.20240711.220010           arm64        Providing common API for ament linter packages.
+ii  ros-iron-ament-lint-auto                           0.14.4-1jammy.20240711.220214           arm64        The auto-magic functions for ease to use of the ament linters in CMake.
+ii  ros-iron-ament-lint-cmake                          0.14.4-1jammy.20240712.011939           arm64        The ability to lint CMake code using cmakelint and generate xUnit test result files.
+ii  ros-iron-ament-lint-common                         0.14.4-1jammy.20240712.023931           arm64        The list of commonly used linters in the ament build system in CMake.
+ii  ros-iron-ament-package                             0.15.3-2jammy.20230421.211250           arm64        The parser for the manifest files in the ament buildsystem.
+ii  ros-iron-ament-pep257                              0.14.4-1jammy.20240711.220325           arm64        The ability to check code against the docstring style conventions in PEP 257 and generate xUnit test result files.
+ii  ros-iron-ament-uncrustify                          0.14.4-1jammy.20240712.001642           arm64        The ability to check code against style conventions using uncrustify and generate xUnit test result files.
+ii  ros-iron-ament-xmllint                             0.14.4-1jammy.20240712.002109           arm64        The ability to check XML files like the package manifest using xmllint and generate xUnit test result files.
+ii  ros-iron-angles                                    1.16.0-4jammy.20240711.222708           arm64        This package provides a set of simple math utilities to work with angles.
+ii  ros-iron-builtin-interfaces                        1.6.0-2jammy.20240712.035747            arm64        A package containing message and service definitions for types defined in the OMG IDL Platform Specific Model.
+ii  ros-iron-camera-calibration                        4.0.2-1jammy.20240820.142459            arm64        camera_calibration allows easy calibration of monocular or stereo cameras using a checkerboard calibration target.
+ii  ros-iron-camera-calibration-parsers                4.2.4-1jammy.20240712.055307            arm64        camera_calibration_parsers contains routines for reading and writing camera calibration parameters.
+ii  ros-iron-camera-info-manager                       4.2.4-1jammy.20240712.070907            arm64        This package provides a C++ interface for camera calibration information.
+ii  ros-iron-class-loader                              2.5.0-4jammy.20240712.081127            arm64        The class_loader package is a ROS-independent package for loading plugins during runtime and the foundation of the higher level ROS &quot;pluginlib&quot; library.
+ii  ros-iron-common-interfaces                         5.0.1-1jammy.20240712.052106            arm64        common_interfaces contains messages and services that are widely used by other ROS packages.
+ii  ros-iron-composition-interfaces                    1.6.0-2jammy.20240712.042545            arm64        A package containing message and service definitions for managing composable nodes in a container process.
+ii  ros-iron-compressed-depth-image-transport          3.1.0-1jammy.20240801.021143            arm64        Compressed_depth_image_transport provides a plugin to image_transport for transparently sending depth images (raw, floating-point) using PNG compression.
+ii  ros-iron-compressed-image-transport                3.1.0-1jammy.20240801.021219            arm64        Compressed_image_transport provides a plugin to image_transport for transparently sending images encoded as JPEG or PNG.
+ii  ros-iron-console-bridge-vendor                     1.6.0-4jammy.20240712.065855            arm64        Wrapper around console_bridge, providing nothing but a dependency on console_bridge, on some systems.
+ii  ros-iron-cv-bridge                                 3.5.0-1jammy.20240712.055530            arm64        This contains CvBridge, which converts between ROS2 Image messages and OpenCV images.
+ii  ros-iron-depth-image-proc                          4.0.2-1jammy.20240830.182053            arm64        Contains components for processing depth images such as those produced by OpenNI camera.
+ii  ros-iron-diagnostic-msgs                           5.0.1-1jammy.20240712.044858            arm64        A package containing some diagnostics related message and service definitions.
+ii  ros-iron-domain-coordinator                        0.11.2-4jammy.20240712.001700           arm64        A tool to coordinate unique ROS_DOMAIN_IDs across multiple processes
+ii  ros-iron-eigen3-cmake-module                       0.2.2-4jammy.20240712.022027            arm64        Exports a custom CMake module to find Eigen3.
+ii  ros-iron-fastcdr                                   1.0.27-3jammy.20240711.221103           arm64        CDR serialization implementation.
+ii  ros-iron-fastrtps                                  2.10.4-1jammy.20240712.023028           arm64        *eprosima Fast DDS* (formerly Fast RTPS) is a C++ implementation of the DDS (Data Distribution Service) standard of the OMG (Object Management Group).
+ii  ros-iron-fastrtps-cmake-module                     3.0.2-1jammy.20240712.030437            arm64        Provide CMake module to find eProsima FastRTPS.
+ii  ros-iron-filters                                   2.1.0-5jammy.20240712.090555            arm64        This library provides a standardized interface for processing data as a sequence of filters.
+ii  ros-iron-foonathan-memory-vendor                   1.3.0-4jammy.20240712.021309            arm64        Foonathan/memory vendor package for Fast-RTPS.
+ii  ros-iron-geometry-msgs                             5.0.1-1jammy.20240712.044323            arm64        A package containing some geometry related message definitions.
+ii  ros-iron-geometry2                                 0.31.8-1jammy.20240830.185213           arm64        A metapackage to bring in the default packages second generation Transform Library in ros, tf2.
+ii  ros-iron-gmock-vendor                              1.10.9005-2jammy.20240711.221902        arm64        The package provides GoogleMock.
+ii  ros-iron-gtest-vendor                              1.10.9005-2jammy.20240711.221142        arm64        The package provides GoogleTest.
+ii  ros-iron-image-common                              4.2.4-1jammy.20240801.021228            arm64        Common code for working with images in ROS.
+ii  ros-iron-image-geometry                            3.5.0-1jammy.20240712.051111            arm64        `image_geometry` contains C++ and Python libraries for interpreting images geometrically.
+ii  ros-iron-image-pipeline                            4.0.2-1jammy.20240830.193031            arm64        image_pipeline fills the gap between getting raw images from a camera driver and higher-level vision processing.
+ii  ros-iron-image-proc                                4.0.2-1jammy.20240820.142905            arm64        Single image rectification and color processing.
+ii  ros-iron-image-publisher                           4.0.2-1jammy.20240820.142858            arm64        Contains a node publish an image stream from single image file or avi motion file.
+ii  ros-iron-image-rotate                              4.0.2-1jammy.20240830.183057            arm64        Contains a node that rotates an image stream in a way that minimizes the angle between a vector in some arbitrary frame and a vector in the camera frame.
+ii  ros-iron-image-transport                           4.2.4-1jammy.20240731.155942            arm64        image_transport should always be used to subscribe to and publish images.
+ii  ros-iron-image-transport-plugins                   3.1.0-1jammy.20240801.124101            arm64        A set of plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.
+ii  ros-iron-image-view                                4.0.2-1jammy.20240820.142857            arm64        A simple viewer for ROS image topics.
+ii  ros-iron-kdl-parser                                2.9.0-3jammy.20240712.202432            arm64        The Kinematics and Dynamics Library (KDL) defines a tree structure to represent the kinematic and dynamic parameters of a robot mechanism.
+ii  ros-iron-keyboard-handler                          0.1.0-3jammy.20240712.031135            arm64        Handler for input from keyboard
+ii  ros-iron-laser-filters                             2.0.7-1jammy.20240830.183546            arm64        Assorted filters designed to operate on 2D planar laser scanners, which use the sensor_msgs/LaserScan type.
+ii  ros-iron-laser-geometry                            2.5.0-3jammy.20240830.181619            arm64        This package contains a class for converting from a 2D laser scan as defined by sensor_msgs/LaserScan into a point cloud as defined by sensor_msgs/PointCloud or sensor_msgs/PointCloud2.
+ii  ros-iron-launch                                    2.0.4-1jammy.20240712.010642            arm64        The ROS launch tool.
+ii  ros-iron-launch-ros                                0.24.1-1jammy.20240712.071517           arm64        ROS specific extensions to the launch tool.
+ii  ros-iron-launch-testing                            2.0.4-1jammy.20240712.011306            arm64        A package to create tests which involve launch files and multiple processes.
+ii  ros-iron-launch-testing-ament-cmake                2.0.4-1jammy.20240712.032454            arm64        A package providing cmake functions for running launch tests from the build.
+ii  ros-iron-launch-testing-ros                        0.24.1-1jammy.20240712.072118           arm64        A package providing utilities for writing ROS2 enabled launch tests.
+ii  ros-iron-launch-xml                                2.0.4-1jammy.20240712.010945            arm64        XML frontend for the launch package.
+ii  ros-iron-launch-yaml                               2.0.4-1jammy.20240712.011234            arm64        YAML frontend for the launch package.
+ii  ros-iron-libstatistics-collector                   1.5.2-1jammy.20240712.052850            arm64        Lightweight aggregation utilities to collect statistics and measure message metrics.
+ii  ros-iron-libyaml-vendor                            1.5.0-3jammy.20240712.033011            arm64        Vendored version of libyaml.
+ii  ros-iron-lifecycle-msgs                            1.6.0-2jammy.20240712.065742            arm64        A package containing some lifecycle related message and service definitions.
+ii  ros-iron-mcap-vendor                               0.22.7-1jammy.20240712.212237           arm64        mcap vendor package
+ii  ros-iron-message-filters                           4.7.1-1jammy.20240731.155410            arm64        A set of ROS2 message filters which take in messages and may output those messages at a later time, based on the conditions that filter needs met.
+ii  ros-iron-nav-msgs                                  5.0.1-1jammy.20240712.045723            arm64        A package containing some navigation related message and service definitions.
+ii  ros-iron-orocos-kdl-vendor                         0.3.4-3jammy.20240712.031943            arm64        Wrapper around orocos_kdl, providing nothing but a dependency on orocos_kdl on some systems.
+ii  ros-iron-osrf-pycommon                             2.1.2-3jammy.20240711.220111            arm64        Commonly needed Python modules, used by Python software developed at OSRF.
+ii  ros-iron-pcl-conversions                           2.5.4-1jammy.20240801.013005            arm64        Provides conversions from PCL data types and ROS message types
+ii  ros-iron-pcl-msgs                                  1.0.0-8jammy.20240712.051221            arm64        Package containing PCL (Point Cloud Library)-related ROS messages.
+ii  ros-iron-pcl-ros                                   2.5.4-1jammy.20240830.184429            arm64        PCL (Point Cloud Library) ROS interface stack.
+ii  ros-iron-perception                                0.10.0-3jammy.20240830.193852           arm64        A package which aggregates common perception packages.
+ii  ros-iron-perception-pcl                            2.5.4-1jammy.20240830.193754            arm64        PCL (Point Cloud Library) ROS interface stack.
+ii  ros-iron-pluginlib                                 5.2.2-3jammy.20240712.082202            arm64        The pluginlib package provides tools for writing and dynamically loading plugins using the ROS build infrastructure.
+ii  ros-iron-pybind11-vendor                           3.0.3-3jammy.20240711.230153            arm64        Wrapper around pybind11.
+ii  ros-iron-python-cmake-module                       0.10.2-3jammy.20240712.032113           arm64        Provide CMake module with extra functionality for Python.
+ii  ros-iron-rcl                                       6.0.6-1jammy.20240712.044811            arm64        The ROS client library common implementation.
+ii  ros-iron-rcl-action                                6.0.6-1jammy.20240712.045355            arm64        Package containing a C-based ROS action implementation
+ii  ros-iron-rcl-interfaces                            1.6.0-2jammy.20240712.042118            arm64        The ROS client library common interfaces.
+ii  ros-iron-rcl-lifecycle                             6.0.6-1jammy.20240712.065933            arm64        Package containing a C-based lifecycle implementation
+ii  ros-iron-rcl-logging-interface                     2.5.1-2jammy.20240712.032952            arm64        Interface that rcl_logging backends needs to implement.
+ii  ros-iron-rcl-logging-spdlog                        2.5.1-2jammy.20240712.035648            arm64        Implementation of rcl_logging API for an spdlog backend.
+ii  ros-iron-rcl-yaml-param-parser                     6.0.6-1jammy.20240712.034431            arm64        Parse a YAML parameter file and populate the C data structure.
+ii  ros-iron-rclcpp                                    21.0.7-1jammy.20240712.053109           arm64        The ROS client library in C++.
+ii  ros-iron-rclcpp-action                             21.0.7-1jammy.20240712.054314           arm64        Adds action APIs for C++.
+ii  ros-iron-rclcpp-components                         21.0.7-1jammy.20240712.100138           arm64        Package containing tools for dynamically loadable components
+ii  ros-iron-rclcpp-lifecycle                          21.0.7-1jammy.20240712.070251           arm64        Package containing a prototype for lifecycle implementation
+ii  ros-iron-rclpy                                     4.1.6-1jammy.20240712.070330            arm64        Package containing the Python client.
+ii  ros-iron-rcpputils                                 2.6.4-1jammy.20240712.032709            arm64        Package containing utility code for C++.
+ii  ros-iron-rcutils                                   6.2.3-1jammy.20240712.032525            arm64        Package containing various utility types and functions for C
+ii  ros-iron-rmw                                       7.1.0-2jammy.20240712.034203            arm64        Contains the ROS middleware API.
+ii  ros-iron-rmw-dds-common                            2.0.1-2jammy.20240712.042548            arm64        Define a common interface between DDS implementations of ROS middleware.
+ii  ros-iron-rmw-fastrtps-cpp                          7.1.4-1jammy.20240712.043853            arm64        Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++.
+ii  ros-iron-rmw-fastrtps-shared-cpp                   7.1.4-1jammy.20240712.042944            arm64        Code shared on static and dynamic type support of rmw_fastrtps_cpp.
+ii  ros-iron-rmw-implementation                        2.12.1-1jammy.20240712.044614           arm64        Proxy implementation of the ROS 2 Middleware Interface.
+ii  ros-iron-rmw-implementation-cmake                  7.1.0-2jammy.20240712.033352            arm64        CMake functions which can discover and enumerate available implementations.
+ii  ros-iron-robot-state-publisher                     3.2.1-1jammy.20240830.192018            arm64        This package take the joint angles of a robot as input, and publishes the 3D poses of the robot links to tf2, using a kinematic tree model of the robot.
+ii  ros-iron-ros-base                                  0.10.0-3jammy.20240830.193824           arm64        A package which extends 'ros_core' and includes other basic functionalities like tf2 and urdf.
+ii  ros-iron-ros-core                                  0.10.0-3jammy.20240712.195650           arm64        A package to aggregate the packages required to use publish / subscribe, services, generate messages and other core ROS concepts.
+ii  ros-iron-ros-environment                           4.1.1-1jammy.20240711.215742            arm64        The package provides the environment variables `ROS_VERSION` and `ROS_DISTRO`.
+ii  ros-iron-ros-workspace                             1.0.3-4jammy.20240711.215024            arm64        Provides the prefix level environment files for ROS 2 packages.
+ii  ros-iron-ros2action                                0.25.7-1jammy.20240712.072146           arm64        The action command for ROS 2 command line tools.
+ii  ros-iron-ros2bag                                   0.22.7-1jammy.20240712.215651           arm64        Entry point for rosbag in ROS 2
+ii  ros-iron-ros2cli                                   0.25.7-1jammy.20240712.071228           arm64        Framework for ROS 2 command line tools.
+ii  ros-iron-ros2cli-common-extensions                 0.2.2-3jammy.20240712.195440            arm64        Meta package for ros2cli common extensions
+ii  ros-iron-ros2component                             0.25.7-1jammy.20240712.102128           arm64        The component command for ROS 2 command line tools.
+ii  ros-iron-ros2doctor                                0.25.7-1jammy.20240712.072155           arm64        A command line tool to check potential issues in a ROS 2 system
+ii  ros-iron-ros2interface                             0.25.7-1jammy.20240712.072235           arm64        The interface command for ROS 2 command line tools
+ii  ros-iron-ros2launch                                0.24.1-1jammy.20240712.072605           arm64        The launch command for ROS 2 command line tools.
+ii  ros-iron-ros2lifecycle                             0.25.7-1jammy.20240712.072315           arm64        The lifecycle command for ROS 2 command line tools.
+ii  ros-iron-ros2multicast                             0.25.7-1jammy.20240712.071310           arm64        The multicast command for ROS 2 command line tools.
+ii  ros-iron-ros2node                                  0.25.7-1jammy.20240712.072238           arm64        The node command for ROS 2 command line tools.
+ii  ros-iron-ros2param                                 0.25.7-1jammy.20240712.072330           arm64        The param command for ROS 2 command line tools.
+ii  ros-iron-ros2pkg                                   0.25.7-1jammy.20240712.072237           arm64        The pkg command for ROS 2 command line tools.
+ii  ros-iron-ros2run                                   0.25.7-1jammy.20240712.072306           arm64        The run command for ROS 2 command line tools.
+ii  ros-iron-ros2service                               0.25.7-1jammy.20240712.072248           arm64        The service command for ROS 2 command line tools.
+ii  ros-iron-ros2topic                                 0.25.7-1jammy.20240712.072302           arm64        The topic command for ROS 2 command line tools.
+ii  ros-iron-rosbag2                                   0.22.7-1jammy.20240712.220356           arm64        Meta package for rosbag2 related packages
+ii  ros-iron-rosbag2-compression                       0.22.7-1jammy.20240712.213425           arm64        Compression implementations for rosbag2 bags and messages.
+ii  ros-iron-rosbag2-compression-zstd                  0.22.7-1jammy.20240712.213936           arm64        Zstandard compression library implementation of rosbag2_compression
+ii  ros-iron-rosbag2-cpp                               0.22.7-1jammy.20240712.212901           arm64        C++ ROSBag2 client library
+ii  ros-iron-rosbag2-interfaces                        0.22.7-1jammy.20240712.211929           arm64        Interface definitions for controlling rosbag2
+ii  ros-iron-rosbag2-py                                0.22.7-1jammy.20240712.215043           arm64        Python API for rosbag2
+ii  ros-iron-rosbag2-storage                           0.22.7-1jammy.20240712.211814           arm64        ROS2 independent storage format to store serialized ROS2 messages
+ii  ros-iron-rosbag2-storage-default-plugins           0.22.7-1jammy.20240712.212830           arm64        Intermediate metapackage to point at default storage plugin(s) for rosbag2
+ii  ros-iron-rosbag2-storage-mcap                      0.22.7-1jammy.20240712.212606           arm64        rosbag2 storage plugin using the MCAP file format
+ii  ros-iron-rosbag2-storage-sqlite3                   0.22.7-1jammy.20240712.212402           arm64        ROSBag2 SQLite3 storage plugin
+ii  ros-iron-rosbag2-transport                         0.22.7-1jammy.20240712.214452           arm64        Layer encapsulating ROS middleware to allow rosbag2 to be used with or without middleware
+ii  ros-iron-rosgraph-msgs                             1.6.0-2jammy.20240712.042637            arm64        Messages relating to the ROS Computation Graph.
+ii  ros-iron-rosidl-adapter                            4.0.1-1jammy.20240712.024210            arm64        API and scripts to parse .msg/.srv/.action files and convert them to .idl.
+ii  ros-iron-rosidl-cli                                4.0.1-1jammy.20240712.002449            arm64        Command line tools for ROS interface generation.
+ii  ros-iron-rosidl-cmake                              4.0.1-1jammy.20240712.034955            arm64        The CMake functionality to invoke code generation for ROS interface files.
+ii  ros-iron-rosidl-core-generators                    0.1.1-3jammy.20240712.035652            arm64        A configuration package defining core ROS interface generators.
+ii  ros-iron-rosidl-core-runtime                       0.1.1-3jammy.20240712.035717            arm64        A configuration package defining runtime dependencies for core ROS interfaces.
+ii  ros-iron-rosidl-default-generators                 1.5.0-3jammy.20240712.041119            arm64        A configuration package defining the default ROS interface generators.
+ii  ros-iron-rosidl-default-runtime                    1.5.0-3jammy.20240712.040731            arm64        A configuration package defining the runtime for the ROS interfaces.
+ii  ros-iron-rosidl-dynamic-typesupport                0.0.5-1jammy.20240712.033927            arm64        Unified serialization support interface for dynamic typesupport in C.
+ii  ros-iron-rosidl-dynamic-typesupport-fastrtps       0.0.2-2jammy.20240712.034432            arm64        FastDDS serialization support implementation for use with C/C++.
+ii  ros-iron-rosidl-generator-c                        4.0.1-1jammy.20240712.033927            arm64        Generate the ROS interfaces in C.
+ii  ros-iron-rosidl-generator-cpp                      4.0.1-1jammy.20240712.035212            arm64        Generate the ROS interfaces in C++.
+ii  ros-iron-rosidl-generator-py                       0.18.0-2jammy.20240712.035554           arm64        Generate the ROS interfaces in Python.
+ii  ros-iron-rosidl-generator-type-description         4.0.1-1jammy.20240712.033446            arm64        Generate hashes and descriptions of ROS 2 interface types, per REP-2011.
+ii  ros-iron-rosidl-parser                             4.0.1-1jammy.20240712.033418            arm64        The parser for `.idl` ROS interface files.
+ii  ros-iron-rosidl-pycommon                           4.0.1-1jammy.20240712.033702            arm64        Common Python functions used by rosidl packages.
+ii  ros-iron-rosidl-runtime-c                          4.0.1-1jammy.20240712.033741            arm64        Provides definitions, initialization and finalization functions, and macros for getting and working with rosidl typesupport types in C.
+ii  ros-iron-rosidl-runtime-cpp                        4.0.1-1jammy.20240712.034955            arm64        Provides definitions and templated functions for getting and working with rosidl typesupport types in C++.
+ii  ros-iron-rosidl-runtime-py                         0.12.0-2jammy.20240712.053739           arm64        Runtime utilities for working with generated ROS interfaces in Python.
+ii  ros-iron-rosidl-typesupport-c                      3.0.1-1jammy.20240712.034130            arm64        Generate the type support for C messages.
+ii  ros-iron-rosidl-typesupport-cpp                    3.0.1-1jammy.20240712.035511            arm64        Generate the type support for C++ messages.
+ii  ros-iron-rosidl-typesupport-fastrtps-c             3.0.2-1jammy.20240712.035413            arm64        Generate the C interfaces for eProsima FastRTPS.
+ii  ros-iron-rosidl-typesupport-fastrtps-cpp           3.0.2-1jammy.20240712.035241            arm64        Generate the C++ interfaces for eProsima FastRTPS.
+ii  ros-iron-rosidl-typesupport-interface              4.0.1-1jammy.20240712.033716            arm64        The interface for rosidl typesupport packages.
+ii  ros-iron-rosidl-typesupport-introspection-c        4.0.1-1jammy.20240712.033954            arm64        Generate the message type support for dynamic message construction in C.
+ii  ros-iron-rosidl-typesupport-introspection-cpp      4.0.1-1jammy.20240712.035242            arm64        Generate the message type support for dynamic message construction in C++.
+ii  ros-iron-rpyutils                                  0.3.2-3jammy.20240712.002545            arm64        Package containing various utility types and functions for Python
+ii  ros-iron-sensor-msgs                               5.0.1-1jammy.20240712.050036            arm64        A package containing some sensor data related message and service definitions.
+ii  ros-iron-sensor-msgs-py                            5.0.1-1jammy.20240712.051450            arm64        A package for easy creation and reading of PointCloud2 messages in Python.
+ii  ros-iron-service-msgs                              1.6.0-2jammy.20240712.040149            arm64        Messages definitions common among all ROS services
+ii  ros-iron-shape-msgs                                5.0.1-1jammy.20240712.050111            arm64        A package containing some message definitions which describe geometric shapes.
+ii  ros-iron-shared-queues-vendor                      0.22.7-1jammy.20240712.211740           arm64        Vendor package for concurrent queues from moodycamel
+ii  ros-iron-spdlog-vendor                             1.4.4-2jammy.20240712.035418            arm64        Wrapper around spdlog, providing nothing but a dependency on spdlog, on some systems.
+ii  ros-iron-sqlite3-vendor                            0.22.7-1jammy.20240712.211730           arm64        SQLite 3 vendor package
+ii  ros-iron-sros2                                     0.11.3-1jammy.20240712.073715           arm64        Command line tools for managing SROS2 keys
+ii  ros-iron-sros2-cmake                               0.11.3-1jammy.20240712.074207           arm64        CMake macros to configure security
+ii  ros-iron-statistics-msgs                           1.6.0-2jammy.20240712.042938            arm64        Message definitions for reporting statistics for topics and system resources.
+ii  ros-iron-std-msgs                                  5.0.1-1jammy.20240712.043044            arm64        A package containing some standard message definitions.
+ii  ros-iron-std-srvs                                  5.0.1-1jammy.20240712.043058            arm64        A package containing some standard service definitions.
+ii  ros-iron-stereo-image-proc                         4.0.2-1jammy.20240820.143748            arm64        Stereo and single image rectification and disparity processing.
+ii  ros-iron-stereo-msgs                               5.0.1-1jammy.20240712.051624            arm64        A package containing some stereo camera related message definitions.
+ii  ros-iron-tf2                                       0.31.8-1jammy.20240830.181004           arm64        tf2 is the second generation of the transform library, which lets the user keep track of multiple coordinate frames over time.
+ii  ros-iron-tf2-bullet                                0.31.8-1jammy.20240830.181826           arm64        tf2_bullet
+ii  ros-iron-tf2-eigen                                 0.31.8-1jammy.20240830.181847           arm64        tf2_eigen
+ii  ros-iron-tf2-eigen-kdl                             0.31.8-1jammy.20240830.185134           arm64        Conversion functions between: - Eigen and KDL
+ii  ros-iron-tf2-geometry-msgs                         0.31.8-1jammy.20240830.181949           arm64        tf2_geometry_msgs
+ii  ros-iron-tf2-kdl                                   0.31.8-1jammy.20240830.181953           arm64        KDL binding for tf2
+ii  ros-iron-tf2-msgs                                  0.31.8-1jammy.20240830.181032           arm64        tf2_msgs
+ii  ros-iron-tf2-py                                    0.31.8-1jammy.20240830.181731           arm64        The tf2_py package
+ii  ros-iron-tf2-ros                                   0.31.8-1jammy.20240830.181340           arm64        This package contains the C++ ROS bindings for the tf2 library
+ii  ros-iron-tf2-ros-py                                0.31.8-1jammy.20240830.181812           arm64        This package contains the ROS Python bindings for the tf2 library
+ii  ros-iron-tf2-sensor-msgs                           0.31.8-1jammy.20240830.182007           arm64        Small lib to transform sensor_msgs with tf.
+ii  ros-iron-tf2-tools                                 0.31.8-1jammy.20240830.182027           arm64        tf2_tools
+ii  ros-iron-theora-image-transport                    3.1.0-1jammy.20240801.022133            arm64        Theora_image_transport provides a plugin to image_transport for transparently sending an image stream encoded with the Theora codec.
+ii  ros-iron-tinyxml-vendor                            0.9.2-3jammy.20240711.232332            arm64        CMake shim over the tinxml library.
+ii  ros-iron-tinyxml2-vendor                           0.8.3-1jammy.20240711.232325            arm64        Wrapper around tinyxml2, providing nothing but a dependency on tinyxml2, on some systems.
+ii  ros-iron-tracetools                                6.3.2-1jammy.20240712.024538            arm64        Tracing wrapper for ROS 2.
+ii  ros-iron-tracetools-image-pipeline                 4.0.2-1jammy.20240820.142703            arm64        LTTng tracing provider wrapper for image_pipeline ROS 2 meta-package.
+ii  ros-iron-trajectory-msgs                           5.0.1-1jammy.20240712.051827            arm64        A package containing some robot trajectory message definitions.
+ii  ros-iron-type-description-interfaces               1.6.0-2jammy.20240712.040858            arm64        A package containing message and service definitions for describing and communicating descriptions of other types.
+ii  ros-iron-uncrustify-vendor                         2.1.2-3jammy.20240711.232826            arm64        Wrapper around uncrustify, providing nothing but a dependency on uncrustify, on some systems.
+ii  ros-iron-unique-identifier-msgs                    2.3.2-3jammy.20240712.035840            arm64        ROS messages for universally unique identifiers.
+ii  ros-iron-urdf                                      2.8.2-3jammy.20240712.084653            arm64        This package contains a C++ parser for the Unified Robot Description Format (URDF), which is an XML format for representing a robot model.
+ii  ros-iron-urdf-parser-plugin                        2.8.2-3jammy.20240712.025558            arm64        This package contains a C++ base class for URDF parsers.
+ii  ros-iron-urdfdom                                   3.1.1-2jammy.20240712.081205            arm64        A library to access URDFs using the DOM model.
+ii  ros-iron-urdfdom-headers                           1.1.0-3jammy.20240711.220449            arm64        C++ headers for URDF.
+ii  ros-iron-vision-opencv                             3.5.0-1jammy.20240712.060526            arm64        Packages for interfacing ROS2 with OpenCV, a library of programming functions for real time computer vision.
+ii  ros-iron-visualization-msgs                        5.0.1-1jammy.20240712.051712            arm64        A package containing some visualization and interaction related message definitions.
+ii  ros-iron-yaml-cpp-vendor                           8.1.2-3jammy.20240711.233539            arm64        Wrapper around yaml-cpp, it provides a fixed CMake module and an ExternalProject build of it.
+ii  ros-iron-zstd-vendor                               0.22.7-1jammy.20240712.211817           arm64        Zstd compression vendor package, providing a dependency for Zstd.
